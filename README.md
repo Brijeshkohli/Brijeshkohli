@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming language 
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on java project
-- 📫 How to reach me mobile no brijeshmahawar981@gmail.com
-- mobile no 9587023500
+- 📫 brijeshmahawar981@gmail.com
+- ✨ mobile no 9587023500
 - Hello jaipur
 
 <!---
