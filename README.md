@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brijeshkohli
 - 👀 I’m interested in programming language 
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on java project
+- 🌱 I’m currently learning Full Stack 
+- 💞️ I’m looking to collaborate on javaScript project
 - 📫 brijeshmahawar981@gmail.com
 - ✨ mobile no 9587023500
 - Hello jaipur
